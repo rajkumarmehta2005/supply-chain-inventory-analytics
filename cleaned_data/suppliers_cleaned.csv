@@ -1,0 +1,26 @@
+supplier_id,supplier_name,supplier_city,supplier_state,supplier_rating,payment_terms
+S001,Supplier 01,Mumbai,Maharashtra,4.0,Net 60
+S002,Supplier 02,Delhi,Delhi,4.5,Net 30
+S003,Supplier 03,Bengaluru,Karnataka,4.3,Net 60
+S004,Supplier 04,Pune,Maharashtra,3.4,Net 45
+S005,Supplier 05,Chennai,Tamil Nadu,4.2,Net 45
+S006,Supplier 06,Hyderabad,Telangana,3.7,Net 45
+S007,Supplier 07,Ahmedabad,Gujarat,4.3,Net 60
+S008,Supplier 08,Kolkata,West Bengal,3.9,Net 60
+S009,Supplier 09,Jamshedpur,Jharkhand,4.5,Net 30
+S010,Supplier 10,Mumbai,Maharashtra,4.0,Net 60
+S011,Supplier 11,Delhi,Delhi,3.8,Net 60
+S012,Supplier 12,Bengaluru,Karnataka,4.0,Net 30
+S013,Supplier 13,Pune,Maharashtra,4.9,Net 45
+S014,Supplier 14,Chennai,Tamil Nadu,4.9,Net 45
+S015,Supplier 15,Hyderabad,Telangana,4.5,Net 30
+S016,Supplier 16,Ahmedabad,Gujarat,5.0,Net 30
+S017,Supplier 17,Kolkata,West Bengal,3.7,Net 45
+S018,Supplier 18,Jamshedpur,Jharkhand,4.3,Net 60
+S019,Supplier 19,Mumbai,Maharashtra,3.2,Net 30
+S020,Supplier 20,Delhi,Delhi,3.9,Net 60
+S021,Supplier 21,Bengaluru,Karnataka,3.8,Net 30
+S022,Supplier 22,Pune,Maharashtra,4.8,Net 60
+S023,Supplier 23,Chennai,Tamil Nadu,4.0,Net 45
+S024,Supplier 24,Hyderabad,Telangana,4.2,Net 60
+S025,Supplier 25,Ahmedabad,Gujarat,3.1,Net 30
