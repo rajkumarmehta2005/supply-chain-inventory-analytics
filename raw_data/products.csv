@@ -1,0 +1,101 @@
+Product_ID,Product_Name,Category,Sub_Category,Unit_Cost,Selling_Price,Reorder_Level,Safety_Stock,Supplier_ID
+P001,Product 001,Industrial,Tools,1589.96,2324.33,40,48,S019
+P002,Product 002,Office Supplies,Storage,6949.48,9662.88,43,12,S022
+P003,Product 003,Furniture,,5817.69,8874.43,21,30,S001
+P004,Product 004,Industrial,Safety,4269.34,5647.39,68,36,S010
+P005,Product 005,Industrial,Hardware,3730.15,5461.2,70,53,S023
+P006,Product 006,Industrial,Tools,514.64,716.9,40,18,S007
+P007,Product 007,Home Appliances,Kitchen,7730.21,11389.37,28,35,S021
+P008,Product 008,Home Appliances,Small Appliances,5513.62,7685.98,27,56,S003
+P009,Product 009,Electronics,Networking,5350.8,6820.58,25,51,S004
+P010,Product 010,Furniture,Seating,6761.94,8992.72,93,45,S014
+P011,Product 011,Industrial,Tools,7695.2,11449.02,101,56,S021
+P012,Product 012,Home Appliances,Kitchen,2355.34,3219.93,60,38,S015
+P013,Product 013,Furniture,,272.75,359.86,20,53,S008
+P014,Product 014,Office Supplies,Storage,5698.83,8215.45,52,14,S010
+P015,Product 015,Home Appliances,Kitchen,7332.43,10925.43,31,43,S001
+P016,Product 016,Furniture,Seating,4791.69,6037.0,54,10,S003
+P017,Product 017,Furniture,Seating,5748.97,8360.81,109,23,S007
+P018,Product 018,Office Supplies,Stationery,5728.7,6842.11,96,41,S007
+P019,Product 019,Electronics,Accessories,4142.28,6267.38,42,48,S013
+P020,Product 020,Office Supplies,Stationery,1946.07,2297.9,78,31,S002
+P021,Product 021,Home Appliances,Kitchen,2470.72,2945.59,47,37,S012
+P022,Product 022,Industrial,Safety,7083.75,9065.34,111,34,S007
+P023,Product 023,Electronics,Accessories,1939.29,2561.5,96,50,S003
+P024,Product 024,Office Supplies,Stationery,3955.92,5645.0,63,33,S015
+P025,Product 025,Office Supplies,Printing,1867.3,2564.25,71,58,S017
+P026,Product 026,Home Appliances,Cleaning,5615.99,8058.43,75,26,S017
+P027,Product 027,Home Appliances,Cleaning,3376.64,3927.78,115,42,S001
+P028,Product 028,Office Supplies,Printing,1287.42,1732.59,51,15,S023
+P029,Product 029,Industrial,Hardware,6128.71,7630.58,57,33,S005
+P030,Product 030,Industrial,Safety,5123.21,6989.65,35,42,S009
+P031,Product 031,Industrial,Hardware,1614.17,1882.62,39,45,S019
+P032,Product 032,Home Appliances,Small Appliances,6504.58,8387.44,90,50,S001
+P033,Product 033,Home Appliances,Kitchen,5454.17,7876.29,69,32,S010
+P034,Product 034,Office Supplies,Storage,5330.87,7873.1,79,58,S002
+P035,Product 035,Electronics,Networking,7193.14,10862.84,28,50,S003
+P036,Product 036,Office Supplies,Storage,6872.15,9014.91,52,33,S020
+P037,Product 037,Office Supplies,Stationery,1418.79,2141.55,103,44,S016
+P038,Product 038,Electronics,Computer Parts,7793.26,9847.32,101,11,S022
+P039,Product 039,Office Supplies,Stationery,1910.51,2741.34,52,23,S021
+P040,Product 040,Industrial,Hardware,5809.38,7396.64,67,21,S019
+P041,Product 041,Furniture,Seating,7152.57,10031.16,117,30,S001
+P042,Product 042,Industrial,Hardware,4016.26,4932.36,80,57,S019
+P043,Product 043,Industrial,Hardware,6183.15,7218.47,63,37,S014
+P044,Product 044,Furniture,Storage Furniture,3055.75,3533.01,43,38,S017
+P045,Product 045,Furniture,Seating,7714.42,11503.77,82,30,S023
+P046,Product 046,Electronics,Computer Parts,1480.52,2032.34,114,12,S008
+P047,Product 047,Home Appliances,Small Appliances,7921.92,9554.1,46,51,S002
+P048,Product 048,Home Appliances,Kitchen,6812.06,8206.14,67,48,S010
+P049,Product 049,Home Appliances,Small Appliances,2161.22,3014.05,79,16,S025
+P050,Product 050,Industrial,Tools,1675.05,1973.84,35,23,S012
+P051,Product 051,Office Supplies,Storage,366.79,506.74,51,32,S022
+P052,Product 052,Office Supplies,Stationery,1367.08,2109.04,41,31,S017
+P053,Product 053,Industrial,Safety,6607.41,8550.49,79,46,S001
+P054,Product 054,Furniture,Office Furniture,3739.53,5559.97,115,39,S015
+P055,Product 055,Office Supplies,Storage,1236.07,1487.11,49,28,S017
+P056,Product 056,Office Supplies,Printing,765.88,888.53,81,32,S009
+P057,Product 057,Industrial,Tools,606.82,919.99,53,41,S022
+P058,Product 058,Electronics,Accessories,2347.48,3596.21,83,14,S022
+P059,Product 059,Furniture,Seating,524.57,722.03,70,46,S022
+P060,Product 060,Electronics,Accessories,1061.17,1239.87,113,55,S020
+P061,Product 061,Furniture,Storage Furniture,6142.41,9046.33,119,42,S005
+P062,Product 062,Home Appliances,Cleaning,7600.79,11436.7,71,40,S010
+P063,Product 063,Home Appliances,Small Appliances,4099.62,6119.08,88,54,S004
+P064,Product 064,Home Appliances,Kitchen,6957.51,9772.25,103,33,S012
+P065,Product 065,Home Appliances,Small Appliances,5199.81,6932.91,70,52,S005
+P066,Product 066,Industrial,Hardware,6590.35,9296.31,62,53,S013
+P067,Product 067,Industrial,Hardware,3111.48,3626.7,54,32,S017
+P068,Product 068,Home Appliances,Kitchen,6782.27,7862.75,53,50,S007
+P069,Product 069,Industrial,Safety,5619.39,7876.01,48,45,S025
+P070,Product 070,Furniture,Office Furniture,2363.97,2886.35,92,33,S003
+P071,Product 071,Electronics,,3389.05,4401.72,115,33,S023
+P072,Product 072,Furniture,Office Furniture,5486.78,7933.68,118,50,S017
+P073,Product 073,Electronics,Networking,4048.01,5286.08,32,28,S017
+P074,Product 074,Industrial,Tools,7257.25,8610.83,90,37,S014
+P075,Product 075,Industrial,Hardware,4020.25,4757.22,88,44,S012
+P076,Product 076,Electronics,Computer Parts,1819.91,2781.69,35,48,S013
+P077,Product 077,Furniture,Storage Furniture,7797.85,12073.98,24,44,S023
+P078,Product 078,Furniture,Seating,5690.78,8749.35,28,19,S012
+P079,Product 079,Electronics,Accessories,6732.07,8889.27,59,51,S009
+P080,Product 080,Home Appliances,Small Appliances,5694.0,6733.38,56,47,S019
+P081,Product 081,Furniture,Office Furniture,7060.83,8788.43,90,34,S013
+P082,Product 082,Industrial,Safety,5709.22,7665.58,73,48,S010
+P083,Product 083,Home Appliances,Small Appliances,1022.9,1377.9,32,59,S020
+P084,Product 084,Industrial,Tools,6608.9,9567.6,22,22,S025
+P085,Product 085,Industrial,Tools,800.7,1090.03,25,53,S013
+P086,Product 086,Furniture,Office Furniture,2683.09,3132.13,104,20,S005
+P087,Product 087,Industrial,Hardware,5608.98,6619.57,66,50,S017
+P088,Product 088,Electronics,Accessories,5620.86,7327.81,106,20,S012
+P089,Product 089,Home Appliances,Cleaning,3726.91,5210.42,27,37,S004
+P090,Product 090,Home Appliances,Cleaning,1950.75,2450.87,60,45,S022
+P091,Product 091,Electronics,Accessories,2579.79,3806.53,111,57,S013
+P092,Product 092,Office Supplies,Stationery,7533.17,9918.59,88,56,S025
+P093,Product 093,Home Appliances,Cleaning,7471.92,11181.17,24,42,S022
+P094,Product 094,Electronics,Networking,7900.12,9560.46,104,35,S025
+P095,Product 095,Office Supplies,Storage,4617.29,5427.18,118,10,S021
+P096,Product 096,Industrial,Tools,4344.62,6299.54,22,32,S005
+P097,Product 097,Furniture,Office Furniture,6093.09,7927.96,104,23,S009
+P098,Product 098,Electronics,Computer Parts,2306.64,2843.84,84,58,S008
+P099,Product 099,Home Appliances,Small Appliances,1041.43,1477.4,53,12,S018
+P100,Product 100,Industrial,Tools,4482.47,6160.6,113,26,S016
